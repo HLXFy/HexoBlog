@@ -4,7 +4,7 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     //离开当前页面时标签显示内容
-    document.title = '休息一下马上回来';
+    document.title = '你跑哪去了QWQ';
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
