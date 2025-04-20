@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.hlxf666nb.cloud/2025/04/16/%E5%B0%86Hexo%E9%83%A8%E7%BD%B2%E5%88%B0Github/</loc>
+    <loc>http://blog.hlxf666nb.cloud/2025/04/20/SSH%E9%85%8D%E7%BD%AE/</loc>
     
     <lastmod>2025-04-20</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://blog.hlxf666nb.cloud/2025/04/20/SSH%E9%85%8D%E7%BD%AE/</loc>
+    <loc>http://blog.hlxf666nb.cloud/2025/04/16/%E5%B0%86Hexo%E9%83%A8%E7%BD%B2%E5%88%B0Github/</loc>
     
     <lastmod>2025-04-20</lastmod>
     
@@ -53,6 +53,27 @@
   
   <url>
     <loc>http://blog.hlxf666nb.cloud/tags/Hexo/</loc>
+    <lastmod>2025-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.hlxf666nb.cloud/tags/ssh/</loc>
+    <lastmod>2025-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.hlxf666nb.cloud/tags/github/</loc>
+    <lastmod>2025-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.hlxf666nb.cloud/tags/git/</loc>
     <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
