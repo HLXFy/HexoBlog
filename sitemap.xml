@@ -38,6 +38,13 @@
 
   
   <url>
+    <loc>http://blog.hlxf666nb.cloud/tags/Github/</loc>
+    <lastmod>2025-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.hlxf666nb.cloud/tags/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2Hexe/</loc>
     <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -46,13 +53,6 @@
   
   <url>
     <loc>http://blog.hlxf666nb.cloud/tags/Hexo/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.hlxf666nb.cloud/tags/Github/</loc>
     <lastmod>2025-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
